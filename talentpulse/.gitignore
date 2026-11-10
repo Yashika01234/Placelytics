@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+# generated artefacts (rebuild with: python run_pipeline.py)
+data/raw/
+data/processed/
+data/*.db
